@@ -2,8 +2,8 @@
 
   <div align=center>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoiuijin1125%2Fchoiuijin1125&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://www.linkedin.com/in/journey1125/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/journey1125/" alt="Linkedin Badge"></a>
   </div>
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/journey1125/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
 
 <!--
 **Choiuijin1125/choiuijin1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
