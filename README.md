@@ -19,11 +19,11 @@
 - 이력
   - Dacon
     + Data Scientist(19. 11 ~)
-        Dacon Develop Project Manager
-        [위성 이미지 객체 검출 경진대회 Project Manager]('https://dacon.io/competitions/official/235492/overview/')
-        [아리랑 위성영상 AI 객체 검출 경진대회 Project Manager]('https://dacon.io/competitions/official/235644/overview/')
-        [랜드마크 분류 AI 경진대회 Project Manager]('https://dacon.io/competitions/official/235585/overview/')
-        [한국 정보화 진흥원 랜드마크 데이터셋 구축 사업 Project Manager]('https://aihub.or.kr/aidata/8009')
+       + Dacon Develop Project Manager
+       + [위성 이미지 객체 검출 경진대회 Project Manager]('https://dacon.io/competitions/official/235492/overview/')
+       + [아리랑 위성영상 AI 객체 검출 경진대회 Project Manager]('https://dacon.io/competitions/official/235644/overview/')
+       + [랜드마크 분류 AI 경진대회 Project Manager]('https://dacon.io/competitions/official/235585/overview/')
+       + [한국 정보화 진흥원 랜드마크 데이터셋 구축 사업 Project Manager]('https://aihub.or.kr/aidata/8009')
        
 
 - Skills
