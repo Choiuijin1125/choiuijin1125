@@ -15,7 +15,7 @@
   - 인하대학교 고분자 공학 학사 (졸)
 
 - 이력
-  - Tensorflow Ko Documents Contributor
+  - Tensorflow Kr Documents Contributor
   - Dacon
     + Data Scientist(19. 11 ~)
        + Dacon Develop Project Manager
