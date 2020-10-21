@@ -5,6 +5,33 @@
   <a href="https://www.linkedin.com/in/journey1125/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/journey1125/" alt="Linkedin Badge"></a>
   </div>
 
+
+- 이름 : 최의진
+
+- 이메일 : jin@dacon.io
+
+- 관심 분야 : 컴퓨터 비전
+
+- 학력
+
+인하대학교 고분자 공학 학사 (졸)
+
+- 이력
+  - Dacon
+    + Data Scientist(19. 11 ~)
+       + [Dacon Develop Project Manager]
+       + [위성 이미지 객체 검출 경진대회 Project Manager]('https://dacon.io/competitions/official/235492/overview/')
+       + [아리랑 위성영상 AI 객체 검출 경진대회 Project Manager]('https://dacon.io/competitions/official/235644/overview/')
+       + [랜드마크 분류 AI 경진대회 Project Manager]('https://dacon.io/competitions/official/235585/overview/')
+       + [한국 정보화 진흥원 랜드마크 데이터셋 구축 사업 Project Manager]('https://aihub.or.kr/aidata/8009')
+       
+
+- Skills
+  - Tensorflow, Pytorch, Docker, SQL, Linux, Python, JavaScript, Flask,   
+
+
+
+
 <!--
 **Choiuijin1125/choiuijin1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
