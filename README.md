@@ -27,6 +27,7 @@
        + [위성 이미지 객체 검출 경진대회 Project Manager](https://dacon.io/competitions/official/235492/overview/)
        + Dacon Develop Project Manager
   - Tensorflow Kr Documents Contributor
+       + [텐서플로 한글 문서 기여자 리뷰어 & 번역자](https://github.com/tensorflow/docs-l10n/blob/master/site/ko/REVIEWERS)
   
 - Skills
   - Tensorflow
