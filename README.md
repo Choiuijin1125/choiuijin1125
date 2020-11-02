@@ -15,16 +15,18 @@
   - 인하대학교 고분자 공학 학사 (졸)
 
 - 이력
-  - Tensorflow Kr Documents Contributor
   - Dacon
     + Data Scientist(19. 11 ~)    
-       + [한국 정보화 진흥원 랜드마크 데이터셋 구축 사업 Project Manager]('https://aihub.or.kr/aidata/8009')
+       + [K-Fashion AI 경진대회 Project Manager](https://dacon.io/competitions/official/235672/overview/)
+       + [한국 정보화 진흥원 한국인 근육량/지방량 CT 데이터셋 구축 사업 Project Manager]('https://aihub.or.kr/')              
+       + [한국 정보화 진흥원 랜드마크 AI 데이터셋 구축 사업 Project Manager]('https://aihub.or.kr/aidata/8009')
        + [랜드마크 분류 AI 경진대회 Project Manager]('https://dacon.io/competitions/official/235585/overview/')
        + [아리랑 위성영상 AI 객체 검출 경진대회 Project Manager]('https://dacon.io/competitions/official/235644/overview/')     
        + [위성관측 데이터 활용 강수량 산출 AI 경진대회 Project Manager]('https://dacon.io/competitions/official/235591/codeshare/')
        + [위성 이미지 객체 검출 경진대회 Project Manager]('https://dacon.io/competitions/official/235492/overview/')
        + Dacon Develop Project Manager
-
+  - Tensorflow Kr Documents Contributor
+  
 - Skills
   - Tensorflow
   - Pytorch 
