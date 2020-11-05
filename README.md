@@ -25,9 +25,9 @@
    
    [한국 정보화 진흥원 랜드마크 AI 데이터셋 구축 사업 Project Manager](https://aihub.or.kr/aidata/8009)
    
-      - [랜드마크 분류 AI 경진대회 Project Manager](https://dacon.io/competitions/official/235585/overview/)
+   * [랜드마크 분류 AI 경진대회 Project Manager](https://dacon.io/competitions/official/235585/overview/)
       
-      - [데이터셋 소개 홈페이지 제작](http://15.165.113.21:8080/)
+   * [데이터셋 소개 홈페이지 제작](http://15.165.113.21:8080/)
           
    [아리랑 위성영상 AI 객체 검출 경진대회 Project Manager](https://dacon.io/competitions/official/235644/overview/) 
    
