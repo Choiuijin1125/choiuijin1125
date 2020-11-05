@@ -16,6 +16,7 @@
 
 - 이력
   - Dacon
+  ------------------
     + Data Scientist(19. 11 ~)    
        + [K-Fashion AI 경진대회 Project Manager](https://dacon.io/competitions/official/235672/overview/)
        + [한국 정보화 진흥원 한국인 근육량/지방량 CT 데이터셋 구축 사업 Project Manager](https://aihub.or.kr/)              
