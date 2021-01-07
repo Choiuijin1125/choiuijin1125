@@ -41,12 +41,12 @@
   
   # Kaggle 
 
-  ## NFL 1st and Future - Impact Detection : 9/459
-  ## Lyft Motion Prediction for Autonomous Vehicles : 51/935
+  - NFL 1st and Future - Impact Detection : 9/459
+  - Lyft Motion Prediction for Autonomous Vehicles : 51/935
   
   # Tensorflow Kr Documents Contributor
   
-       + [텐서플로 한글 문서 기여자 리뷰어 & 번역자](https://github.com/tensorflow/docs-l10n/blob/master/site/ko/REVIEWERS)
+  - [텐서플로 한글 문서 기여자 리뷰어 & 번역자](https://github.com/tensorflow/docs-l10n/blob/master/site/ko/REVIEWERS)
  
 
 
