@@ -12,12 +12,16 @@
 - 학력
 
   - 인하대학교 고분자 공학 학사 (졸)
+
+# MegaStudy Edu
+
+  ## AI Researcher(21. 04 ~) 
   
 ------------------
 
 # Dacon
 
-  ## Data Scientist(19. 11 ~) 
+  ## Data Scientist(19. 11 ~ 21. 04) 
   
    [K-Fashion AI 경진대회 Project Manager](https://dacon.io/competitions/official/235672/overview/)
    
