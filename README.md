@@ -6,7 +6,7 @@
 ------------------
 - 이름 : 최의진
 
-- 이메일 : jin@dacon.io
+- 이메일 : choiuijin1125@gmail.com
 
 - 관심 분야 : 컴퓨터 비전, 음성 인식, 자연어 처리
 - 학력
@@ -16,7 +16,7 @@
 # MegaStudy Edu
 
   ## AI Researcher(21. 04 ~) 
-  
+   [ASR System Project Manager]
 ------------------
 
 # Dacon
