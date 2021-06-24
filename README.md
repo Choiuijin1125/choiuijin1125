@@ -44,12 +44,12 @@
   ------------------
   
   # Kaggle 
-  ## Competitions Expert(1,212/154,226, Top 0.7%) 
+  ## Competitions Expert(975/154,226, Top 0.6%) 
   - NFL 1st and Future - Impact Detection : 9/459
   - Lyft Motion Prediction for Autonomous Vehicles : 51/935
   - Google Landmark Retrieval 2020 : 399/541
   
-  ## Notebooks Expert(858/153,701, Top 0.5%)
+  ## Notebooks Expert(613/153,701, Top 0.5%)
   
   # Tensorflow Kr Documents Contributor
   
