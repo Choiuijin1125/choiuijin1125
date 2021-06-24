@@ -16,7 +16,6 @@
 # MegaStudy Edu
 
   ## AI Researcher(21. 04 ~) 
-   [ASR System Project Manager]
 ------------------
 
 # Dacon
