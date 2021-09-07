@@ -42,7 +42,7 @@
        
   ------------------
   
-  # Kaggle 
+  # [Kaggle](https://www.kaggle.com/jinssaa) 
   ## Competitions Expert(975/154,226, Top 0.6%) 
   - NFL 1st and Future - Impact Detection : 9/459
   - Lyft Motion Prediction for Autonomous Vehicles : 51/935
