@@ -16,13 +16,13 @@
 # MegaStudy Edu
 
   ## AI Researcher(21. 04 ~) 
-   [Automatic Speech Recognition System 연구 개발]
+   Automatic Speech Recognition System 연구 개발
    
-   [Speech synthesis System 연구 개발]
+   Speech synthesis System 연구 개발
    
-   [Image Retrieval System 연구 개발]
+   Image Retrieval System 연구 개발
    
-   [Optical Character Recognition 연구 개발]
+   Optical Character Recognition 연구 개발
    
 ------------------
 
