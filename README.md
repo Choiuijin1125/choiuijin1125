@@ -51,8 +51,9 @@
   ------------------
   
   # [Kaggle](https://www.kaggle.com/jinssaa) 
-  ## Competitions Expert(975/154,226, Top 0.6%) 
+  ## Competitions Expert(828/171,397, Top 0.4%) 
   - NFL 1st and Future - Impact Detection : 9/459
+  - NFL Health & Safety - Helmet Assignment : 40/825
   - Lyft Motion Prediction for Autonomous Vehicles : 51/935
   - Google Landmark Retrieval 2020 : 399/541
   
