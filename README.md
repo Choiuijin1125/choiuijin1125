@@ -64,7 +64,10 @@
   - [텐서플로 한글 문서 기여자 리뷰어 & 번역자](https://github.com/tensorflow/docs-l10n/blob/master/site/ko/REVIEWERS)
  
 
-
+  # AWARDS
+  - The grand prize(1st Place) - 대상(농식품부 장관상)
+    * Won The grand prize(1st prize), Ministry of Agriculture, Food and Rural Affairs, Korea
+    * 2021 스마트농업 인공지능 경진대회 : 대상(1st Place) 농식품부 장관상 수상
 
 <!--
 **Choiuijin1125/choiuijin1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
