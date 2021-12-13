@@ -46,6 +46,8 @@
    
    [위성 이미지 객체 검출 경진대회 Project Manager](https://dacon.io/competitions/official/235492/overview/)
    
+   [2020 보스턴 매스챌린지 파이널리스트 선정](https://www.ftoday.co.kr/news/articleView.html?idxno=202498)
+
    Dacon Develop Project Manager
        
   ------------------
