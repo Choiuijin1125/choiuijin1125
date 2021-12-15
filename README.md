@@ -70,8 +70,8 @@
   - 2021 스마트농업 인공지능 경진대회 : 대상(1st Place), 농식품부 장관상
     * Won The 1st prize, Ministry of Agriculture, Food and Rural Affairs, Korea
 
-<!--   - 2021 훈민정음 한국어 음성인식 인공지능 경진대회 : 우수상(2nd Place), NIA 한국지능정보사회진흥원 원장상
-    * Won The 2nd prize, Director of National Information Society Agency, Korea -->
+  - 2021 훈민정음 한국어 음성인식 인공지능 경진대회 : 우수상(2nd Place), NIA 한국지능정보사회진흥원 원장상
+    * Won The 2nd prize, Director of National Information Society Agency, Korea
 <!--
 **Choiuijin1125/choiuijin1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
