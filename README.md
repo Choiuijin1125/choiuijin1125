@@ -4,25 +4,21 @@
   </div>
 
 ------------------
-- 이름 : 최의진
+최의진
+------------------
 
-- 이메일 : choiuijin1125@gmail.com
+------------------
+# [Kaggle](https://www.kaggle.com/jinssaa) 
 
-- 관심 분야 : 컴퓨터 비전, 음성 인식, 자연어 처리
-- 학력
-
-  - 인하대학교 고분자 공학 학사 (졸)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jinssaa/competition)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jinssaa/notebook)
 
 # MegaStudy Edu
 
   ## AI Researcher(21. 04 ~) 
-   Automatic Speech Recognition System 연구 개발
+   [ASR을 활용한 영상 자동 번역 시스템 연구 개발](http://www.megaland.co.kr/event/evt_ai_caption.asp)
    
-   Speech synthesis System 연구 개발
-   
-   Image Retrieval System 연구 개발
-   
-   Optical Character Recognition 연구 개발
+   OCR을 활용한 이미지 검색(유사 문제) 시스템 연구 개발
    
 ------------------
 
@@ -51,15 +47,6 @@
    Dacon Develop Project Manager
        
   ------------------
-  
-  # [Kaggle](https://www.kaggle.com/jinssaa) 
-  ## Competitions Expert(828/171,397, Top 0.4%) 
-  - NFL 1st and Future - Impact Detection : 9/459
-  - NFL Health & Safety - Helmet Assignment : 40/825
-  - Lyft Motion Prediction for Autonomous Vehicles : 51/935
-  - Google Landmark Retrieval 2020 : 399/541
-  
-  ## Notebooks Expert(613/153,701, Top 0.5%)
   
   # Tensorflow Kr Documents Contributor
   
