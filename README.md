@@ -47,8 +47,14 @@
   
   - [텐서플로 한글 문서 기여자 리뷰어 & 번역자](https://github.com/tensorflow/docs-l10n/blob/master/site/ko/REVIEWERS)
  
+  # PAPERS
+  - [Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration](https://github.com/mv-lab/swin2sr)
+  - [Few-shot Long-Tailed Bird Audio Recognition](https://arxiv.org/abs/2206.11260)
 
   # AWARDS
+  - 2022 한국 축산 데이터톤 : 대상(1st Place), 농식품부 장관상
+    * Won The 1st prize, Ministry of Agriculture, Food and Rural Affairs, Korea  
+  
   - 2021 스마트농업 인공지능 경진대회 : 대상(1st Place), 농식품부 장관상
     * Won The 1st prize, Ministry of Agriculture, Food and Rural Affairs, Korea
 
