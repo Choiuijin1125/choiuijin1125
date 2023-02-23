@@ -9,8 +9,6 @@
 ------------------
 Competition Master (692/198,928)
 
-![image](https://www.kaggle.com/static/images/tiers/master@48.png)
-
 # MegaStudy Edu
 
   ## AI Researcher(21. 04 ~) 
