@@ -7,10 +7,9 @@
 ------------------
 
 ------------------
-# [Kaggle](https://www.kaggle.com/jinssaa) 
+Competition Master (692/198,928)
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jinssaa/competition)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jinssaa/notebook)
+![image](https://www.kaggle.com/static/images/tiers/master@48.png)
 
 # MegaStudy Edu
 
