@@ -9,7 +9,7 @@
 ------------------
 # Kaggle
 
-Competition Master (692/198,928)
+[Competition Master (692/198,928)](https://www.kaggle.com/jinssaa/Home)
 
 # MegaStudy Edu
 
